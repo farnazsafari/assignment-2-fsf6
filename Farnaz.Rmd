@@ -1,0 +1,8 @@
+---
+title: "Farnaz"
+output: html_document
+---
+
+- Research Assistant in the Charles H. Dyson School of Applied Economics and Management at Cornell
+- Master’s degree in Finance & Applied Economics
+- Focused on poverty, food security and resilience in sub-Saharan Africa

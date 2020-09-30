@@ -1,0 +1,12 @@
+---
+title: "NTRES 6940-Second Assignment"
+output: html_document
+---
+
+Farnaz Safari 
+https://github.com/farnazsafari
+
+Sam Porter
+https://github.com/Sam-Porter
+
+![Cornell University](https://i.pinimg.com/originals/4b/4e/2f/4b4e2f6d761009e78392ded92b5310c7.jpg)
