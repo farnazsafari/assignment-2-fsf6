@@ -7,3 +7,10 @@ navbar:
       href: Farnaz.html
     - text: "Sam"
       href: nina.html
+      output_dir: "."
+output:
+  html_document:
+    theme: united
+    highlight: textmate
+    toc: true 
+    toc_float: true
